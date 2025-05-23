@@ -2,7 +2,7 @@
 Greenden is a simple and elegant plant sales website built using only HTML and Tailwind CSS. This static website showcases a clean, responsive layout and is ideal for anyone looking to explore front-end development using utility-first CSS.
 
 🔗 Live Demo
-Visit the Live Site (Replace with your live link if available)
+Visit the Live Site (https://skathiravaninbox.github.io/greenden-tailwind/)
 
 📄 Pages
 The website includes the following pages:
